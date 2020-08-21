@@ -20,7 +20,7 @@ docker login
 
 We can run the workshop with GKE (Google Kubernetes Engine), as part of Google Cloud. Google Cloud is one of the big three platform providers (along with AWS and Azure) that serve a lot of the industry - and signup is simple. It's also *free*, as long as we clean up later.
 
-Instructions are [in this link](/master/Setup-with-Google-Cloud.md). This is the best way to go!
+Instructions are [in this link](/Setup-with-Google-Cloud.md). This is the best way to go!
 
 Use this option if you are less familiar with the command line and want to experiment with Google Cloud.
 
