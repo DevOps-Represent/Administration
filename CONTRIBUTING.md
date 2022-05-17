@@ -33,7 +33,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 ### Good questions to ask
 
-Before making a DevOps Girls module, consider asking the following questions:
+Before making a DevOps Represent module, consider asking the following questions:
 
 ![Lean Canvas](/images/CONTRIBUTING/module-lean-canvas.png)
 
@@ -103,7 +103,7 @@ Consider saving a portion of time for reflection and self-evaluation. Ask the at
 
 ### Overall structure
 
-It's worth thinking about the day as a whole. There's multiple ways that you can structure an all-day DevOps Girls workshop.
+It's worth thinking about the day as a whole. There's multiple ways that you can structure an all-day DevOps Represent workshop.
 
 #### Option A.) The "Kata"
 
