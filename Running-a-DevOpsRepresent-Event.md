@@ -1,4 +1,4 @@
-# The following is a list of instructions on how to run a DevOpsGirls Event
+# The following is a list of instructions on how to run a DevOps Represent Event
 
 ## Resources
 
